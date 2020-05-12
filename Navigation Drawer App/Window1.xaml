@@ -13,7 +13,7 @@
     <Grid>
 
 
-        <DVC:Chart Canvas.Top="80" Canvas.Left="20" Name="mcChart" 
+        <DVC:Chart Canvas.Top="80" Canvas.Left="10" Name="mcChart" 
            Width="400" Height="250"
            Background="LightSteelBlue">
             <DVC:Chart.Series>
